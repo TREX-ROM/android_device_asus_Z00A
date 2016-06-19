@@ -12,8 +12,8 @@
     "revision": "cm-13.0"    
   },
   {
-    "remote":      "gh",
-    "repository":  "TheMuppets/proprietary_vendor_asus",
+    "remote":      "tm",
+    "repository":  "proprietary_vendor_asus",
     "target_path": "vendor/asus",
     "branch":      "cm-13.0"
   },  
