@@ -53,4 +53,4 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
 $(call inherit-product-if-exists, vendor/asus/Z00A/Z00A-vendor.mk)
 
 # Inherit from mofd-common
-$(call inherit-product, device/asus/mofd-common/mofd.mk)
+$(call inherit-product, device/asus/mofd-common/liquid.mk)
