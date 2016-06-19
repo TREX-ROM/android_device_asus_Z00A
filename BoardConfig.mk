@@ -24,3 +24,6 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 59261286400
 
 # Use the non-open-source parts, if they're present
 -include vendor/asus/Z00A/BoardConfigVendor.mk
+
+# Changelog
+LIQUID_CHANGELOG := true
