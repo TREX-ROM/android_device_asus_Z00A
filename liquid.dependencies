@@ -1,9 +1,9 @@
 [
   {
     "remote": "gh",  
-    "repository": "CM-zenfone2/android_kernel_asus_moorefield",
+    "repository": "ZenfoneKernel/NyksKernel",
     "target_path": "kernel/asus/moorefield",
-    "revision": "cm-13.0"    
+    "revision": "NyksKernel"    
   },
   {
     "remote":      "tm",
