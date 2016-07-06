@@ -1,9 +1,9 @@
 [
   {
     "remote": "gh",  
-    "repository": "ZenfoneKernel/NyksKernel",
+    "repository": "CyanogenMod",
     "target_path": "kernel/asus/moorefield",
-    "revision": "NyksKernel"    
+    "revision": "cm-13.0"    
   },
   {
     "remote":      "tm",
